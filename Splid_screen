@@ -3,6 +3,7 @@
 "update" : "1.2" , "update_link" : "https://play.google.com/store/apps/details?id=com.linkstore.random",
 "update_key" : "cancel_update" , "search_link" : "https://www.xnxx.com/search/" ,
 "home_link" : "https://www.xnxx.com/search/10min+/japanese/" , "ads_image" : "https://img-cf.xnxx-cdn.com/videos/thumbs169xnxxll/57/68/f5/5768f535730d51818086a6b0ae4d7a78/5768f535730d51818086a6b0ae4d7a78.8.jpg" ,
-"ads" : "close" , "ads_link" : "https://www.xnxx.com/search/10min+/japanese/"
+"ads" : "close" , "ads_link" : "https://www.xnxx.com/search/10min+/japanese/",
+"inter_ads" : "open"
 }
 ]
